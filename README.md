@@ -8,6 +8,16 @@ This is a submission for my homework for week 13.
 
 In this assignment i was tasked with creating a database using mySQL that can navigated by node.js
 
+In the databases that i have created the user is able to see a fictional company's:
+- Departments
+- Employee roles
+- List of employees
+
+The database also allows the user to make alterations to the database by:
+- Adding a department
+- Adding a role
+- Adding a Employee
+
 
 ## Images
 ![image](https://github.com/aevripidou1996/weather-app/assets/114223852/28870419-4389-4909-86b1-e8a1ed600bca)
@@ -26,4 +36,4 @@ The second link will take the user to a demonstration video showcasing the worki
 
 Github URL: https://github.com/aevripidou1996/SQL-Employee-Tracker/edit/main/README.md
 
-Live Application URL: https://drive.google.com/file/d/1tKvYCUxbSoxHOEaGnnIYoqVxJn6Wqubh/view
+Live Application URL: https://drive.google.com/file/d/1yAImNv2127pMpOtt2YQd0gTunLyUrK8E/view
