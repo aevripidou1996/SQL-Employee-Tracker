@@ -34,6 +34,6 @@ Previous git pusheshes with modified code.
 The final code used to render this application.
 The second link will take the user to a demonstration video showcasing the working application.
 
-Github URL: https://github.com/aevripidou1996/SQL-Employee-Tracker/edit/main/README.md
+Github URL: https://github.com/aevripidou1996/SQL-Employee-Tracker
 
 Live Application URL: https://drive.google.com/file/d/1yAImNv2127pMpOtt2YQd0gTunLyUrK8E/view
